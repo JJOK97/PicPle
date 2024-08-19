@@ -129,7 +129,7 @@ Picple만의 실시간 화상 연결을 통해 전 세계 어디에 있든 함�
 
 ---
 
-![System Architecture](./img/System%20Architecture.png)
+![System Architecture](./img/Architecture.png)
 
 <br/>
 <div id="5"></div>
