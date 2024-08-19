@@ -8,7 +8,8 @@
 
 <br>
 
-### 서비스 소개 영상 : **[Picple UCC Link](https://www.youtube.com/)**
+### 서비스 소개 영상
+https://github.com/user-attachments/assets/3c2de536-1f4d-4983-8e37-7efa3391cfe4
 
 ---
 
