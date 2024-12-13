@@ -1,4 +1,4 @@
-# 📷 PICPLE - 실시간 다중 사용자 사진 웹 서비스
+# 📷 PICPLE - 실시간 화상 공유 및 AI 기반 이미지 생성 포토부스 서비스
 
 ![Picple Logo](./img/picpleLogo.png)
 
